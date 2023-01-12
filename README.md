@@ -1,5 +1,18 @@
 # Thermostats-Manager
 
+Parts of project
+================
+Source code C++
+https://github.com/Piscigne/Thermostats-Manager---Program
+
+CAMBAM and CN files for the Box
+https://github.com/Piscigne/Thermostats-Manager---CAD-Cambam
+
+PSU and Relay PCB 
+https://github.com/Piscigne/Thermostats-Manager---KIKAD
+
+Target
+======
 Designed for managing 6 thermostats in the home.
 Full MQTT exchanges with the Jeedoom domotic environment
 
@@ -17,14 +30,3 @@ Based on ESP32-2432S028 WROOM
 ![image](https://user-images.githubusercontent.com/58998238/212163075-e64262cf-2b7b-45af-9988-a0250f2e8016.png)
 ![image](https://user-images.githubusercontent.com/58998238/212163382-8787dd00-3ab1-493b-adc2-ca57668cd3bf.png)
 
-
-Parts of project
-================
-Source code C++
-https://github.com/Piscigne/Thermostats-Manager---Programme
-
-CAMBAM and CN files for the Box
-https://github.com/Piscigne/Thermostats-Manager---CAD-Cambam
-
-PSU and Relay PCB 
-https://github.com/Piscigne/Thermostats-Manager---KIKAD
