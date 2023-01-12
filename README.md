@@ -25,7 +25,7 @@ Ready to mount on the wall by using a 40mm wall mounting box...
 Jedomm brocker equipment (exp. to send a thermostat data)
 ![image](https://user-images.githubusercontent.com/58998238/212169687-d163d7d6-0c42-4738-8244-88cca262324e.png)
 
-Based on ESP32-2432S028 WROOM
+Based on ESP32-WROOM-2432S028
 =============================
 ![image](https://user-images.githubusercontent.com/58998238/212163075-e64262cf-2b7b-45af-9988-a0250f2e8016.png)
 ![image](https://user-images.githubusercontent.com/58998238/212163382-8787dd00-3ab1-493b-adc2-ca57668cd3bf.png)
