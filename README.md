@@ -22,7 +22,7 @@ Associated with a small PCBA for powering and control one leds light by relay
 ![image](https://user-images.githubusercontent.com/58998238/212166666-12e18554-cbba-4e38-ab2c-94203ea45eb4.png)
 Ready to mount on the wall by using a 40mm wall mounting box... 
 
-Jeedomm brocker equipment (exp. to send a thermostat data)
+Jeedom brocker equipment (exp. to send a thermostat data)
 ![image](https://user-images.githubusercontent.com/58998238/212169687-d163d7d6-0c42-4738-8244-88cca262324e.png)
 
 Based on ESP32-WROOM-2432S028
